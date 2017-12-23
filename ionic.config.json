@@ -1,0 +1,8 @@
+{
+  "name": "anime",
+  "app_id": "a333194d",
+  "type": "ionic-angular",
+  "integrations": {
+    "cordova": {}
+  }
+}
